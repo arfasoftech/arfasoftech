@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arfasoftech
 - 👀 I’m interested in Website and mobile app development.
-- 🌱 I’m currently learning new tech.
+- 🌱 I’m currently developing new tech.
 - 💞️ I’m looking to collaborate on stack
 - 📫 How to reach me @ info@arfasoftech.com
 
